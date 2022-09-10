@@ -3,8 +3,8 @@
 #### Overall Introduction
 * Implemented directories, including “Play Game”, “High Scores”, “Get Help”, and “Exit”. Players can view the names and scores of the top 10 players in “High Scores”.
 * Achieved some functions in the game interface:
-  * 	When the ball hits the racket, walls, and bricks, there will be a physics-based rebound. As for the ball hitting the board edge, a trigonometric function changes the random exit angle r (10<r<30). 
-  * 	Reward mechanism:
+  + 	When the ball hits the racket, walls, and bricks, there will be a physics-based rebound. As for the ball hitting the board edge, a trigonometric function changes the random exit angle r (10<r<30). 
+  + 	Reward mechanism:
     *  Multiple balls: each ball is divided into three, moving at slightly different angles.
     *  Wide paddle: The board’s width can be doubled to the original length in a period.
     *  Sticky racket: When the ball hits the racket, the ball does not bounce but sticks to the racket. Players can double-tap the screen to restart.
