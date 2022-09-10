@@ -1,8 +1,8 @@
 ## Many-Bricks-Breaker-Desktop-Game
 
 #### Overall Introduction
-* Implemented directories, including “Play Game”, “High Scores”, “Get Help”, and “Exit”. Players can view the names and scores of the top 10 players in “High Scores”.
-* Achieved some functions in the game interface:
+* Implemented game interface directories, including “Play Game”, “High Scores”, “Get Help”, and “Exit”. Players can view the names and scores of the top 10 players in “High Scores”.
+* Achieved functions:
   + When the ball hits the racket, walls, and bricks, there will be a physics-based rebound. As for the ball hitting the board edge, a trigonometric function changes the random exit angle r (10<r<30). 
   + Reward mechanism:
     *  `Multiple balls`: each ball is divided into three, moving at slightly different angles.
