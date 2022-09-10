@@ -19,5 +19,3 @@
 * Front end: Java Swing
 * Back end: Java
 
-
-#### 3. Game Display
